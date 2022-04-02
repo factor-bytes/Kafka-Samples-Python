@@ -1,2 +1,9 @@
-# Kafka-Samples-Ready-To-Run
-Kafka Samples - Ready to run scripts
+# Kafka-Samples-Python
+
+Pre Requisites
+
+Kafka package needs to be installed
+
+'''
+pip install kafka-python
+
